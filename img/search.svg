@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92.838" height="102.838" viewBox="0 0 92.838 102.838">
+  <g id="search" transform="translate(-78 -348)">
+    <g id="타원_11" data-name="타원 11" transform="translate(78 348)" fill="#fff" stroke="#d8d8d8" stroke-width="9">
+      <circle cx="42" cy="42" r="42" stroke="none"/>
+      <circle cx="42" cy="42" r="37.5" fill="none"/>
+    </g>
+    <line id="선_1" data-name="선 1" x1="20" y1="24" transform="translate(144.5 420.5)" fill="none" stroke="#d8d8d8" stroke-linecap="round" stroke-width="9"/>
+  </g>
+</svg>

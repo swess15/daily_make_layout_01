@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71" height="84" viewBox="0 0 71 84">
+  <g id="detail" transform="translate(-70 -408)">
+    <g id="패스_3" data-name="패스 3" transform="translate(76 415)" fill="#fff">
+      <path d="M 64 76 L 1 76 L 1 1 L 50.16277694702148 1 L 52.46452331542969 17.2685661315918 L 52.62828826904297 18.42600059509277 L 53.74639892578125 18.0849781036377 L 64 14.95762348175049 L 64 76 Z" stroke="none"/>
+      <path d="M 2 2 L 2 75 L 63 75 L 63 16.30810165405273 L 54.03813934326172 19.04148101806641 L 51.80190658569336 19.72352981567383 L 51.47438812255859 17.40865707397461 L 49.29430389404297 2 L 2 2 M 0 0 L 51.03125762939453 0 L 53.45466995239258 17.12848281860352 L 65 13.60713958740234 L 65 77 L 0 77 L 0 0 Z" stroke="none" fill="#d8d8d8"/>
+    </g>
+    <path id="패스_1" data-name="패스 1" d="M.728,0l3.35,16.751L14.5,13.564l.325-.4L1.188-.125" transform="translate(125.5 415.5)" fill="#d8d8d8" stroke="#d8d8d8" stroke-width="1"/>
+    <g id="타원_12" data-name="타원 12" transform="translate(70 408)" fill="#f37878" stroke="#f37878" stroke-width="1">
+      <circle cx="16" cy="16" r="16" stroke="none"/>
+      <circle cx="16" cy="16" r="15.5" fill="none"/>
+    </g>
+    <text id="_" data-name="?" transform="translate(83 430)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">?</tspan></text>
+  </g>
+</svg>
